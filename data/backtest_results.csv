@@ -1,0 +1,2 @@
+Stock1,Stock2,Beta,TotalReturnPct,AnnReturnPct,Sharpe,MaxDrawdownPct,NumTrades,WinRatePct,AvgTradeRetPct,AvgHoldingDays,MinHoldingDays,MaxHoldingDays
+BANKBARODA,CANBK,1.544,28.6656,6.7201,0.8693,-11.3421,17,88.24,1.6172,24.1,1,75

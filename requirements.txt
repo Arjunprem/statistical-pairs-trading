@@ -1,0 +1,18 @@
+# Core scientific stack
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+
+# Market data
+yfinance>=0.2
+requests>=2.31
+
+# Notebook
+jupyter>=1.0
+nbformat>=5.9
+
+# Optional: sklearn.LinearRegression is an alternative to the statsmodels OLS
+# used for the hedge ratio. It has no Python 3.14 wheel yet, so it is optional.
+# scikit-learn>=1.4
